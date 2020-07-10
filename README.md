@@ -1,5 +1,6 @@
 ### Hi there 👋!
-#I'm ### Guillaume
+
+I'm **Guillaume**,
 
 <!--
 **miluge/miluge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
