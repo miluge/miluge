@@ -27,7 +27,7 @@ Surprise me!
 
 ## ⚡ Fun facts
 
-* I liked to fool Google rankings for fun and profit ( in a company ) and I am still certified :scroll:;
-* I worked for a jeweler and still burn, sand, melt, shape my fingers once every week-end :gem:;
-* I lived 7 years in Oradea, Romania and planning to go back :heart:;
-* I collect :athletic_shoe:;
+* I liked to fool Google rankings for fun and profit ( in a company ) and I am still have my certificate for GAiQ :scroll:
+* I worked for a jeweler and still burn, sand, melt, shape my fingers once every week-end :gem:
+* I lived 7 years in Oradea, Romania and planning to go back :heart:
+* I collect :athletic_shoe:
