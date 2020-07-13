@@ -24,7 +24,7 @@ Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : 
 .
 ## 📫 How to contact me ?
 
-Mostly on [LinkedIn](https://www.linkedin.com/in/guillaumeblondel/), my [Email](mailto:sing [mailto](mailto:gllmblndl@gmail.com) or you can pay me a visit on my [website](https://blondelguillau.me)
+Mostly on [LinkedIn](https://www.linkedin.com/in/guillaumeblondel/), my [Email](mailto:gllmblndl@gmail.com) or you can pay me a visit on my [website](https://blondelguillau.me)
 
 Surprise me!
 
