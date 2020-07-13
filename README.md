@@ -6,7 +6,6 @@ A web developper currently enrolled at [Access Code School](www.accesscodeschool
 
 I'm not specialized yet but I'm slowly leaning towards the back-end of things even though I enjoy doing pretty things for the front.
 
-**I'm currently looking for an internship from the 10th October 2020 until the 7th of December 2020! Feel free to hit me up for opportunities** 
 
 ## 🌱 What am I doing right now ?
 
@@ -18,9 +17,7 @@ Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : 
 
 ## 👯 Can we collaborate ?
 
-**I'm currently looking for an internship from the 10th October 2020 until the 7th of December 2020! Feel free to hit me up for opportunities** 
-
-**I'm open for remote and on-site opportunities**
+Sure thing! Just check below :point_down:
 .
 ## 📫 How to contact me ?
 
