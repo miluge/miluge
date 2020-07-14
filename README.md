@@ -15,7 +15,7 @@ Learning : JS / HTML / CSS / PHP
 
 Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : [Givre Fleet Manager](https://www.guillaumeblondel.dev)
 
-## 👯 Can we collaborate ?
+## 👯 Can we collaborate / hire you /  have a word ? 
 
 Sure thing! Just check below :point_down:
 .
