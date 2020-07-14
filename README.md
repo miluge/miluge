@@ -2,7 +2,7 @@
 
 ## 🔭 Who am I ?
 
-A web developper currently enrolled at [Access Code School](www.accesscodeschool.fr) and preparing a BTEC Higher National Diploma to become : You guess it! A **web developper**. 
+A web developper currently enrolled at [Access Code School](www.accesscodeschool.fr) and preparing a BTEC Higher National Diploma to become : You guessed it, a **web developper**. 
 
 I'm not specialized yet but I'm slowly leaning towards the back-end of things even though I enjoy doing pretty things for the front.
 
