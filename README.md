@@ -18,7 +18,7 @@ Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : 
 ## 👯 Can we collaborate / hire you /  have a word ? 
 
 Sure thing! Just check below :point_down:
-.
+
 ## 📫 How to contact me ?
 
 Mostly on [LinkedIn](https://www.linkedin.com/in/guillaumeblondel/), my [email](mailto:gllmblndl@gmail.com) or you can pay me a visit on my [website](https://blondelguillau.me).
