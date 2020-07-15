@@ -6,6 +6,7 @@ Currently enrolled at [Access Code School](www.accesscodeschool.fr) and preparin
 
 I'm not specialized yet but I'm slowly leaning towards the back-end of things even though I enjoy doing pretty things for the front.
 
+***Looking for an internship from the 12th of October 2020 until the 7th of December 2020  :earth_americas: Remote or :office: in Oradea, Romania*** 
 
 ## 🌱 What am I doing right now ?
 
