@@ -12,7 +12,7 @@ I'm not specialized yet but I'm slowly leaning towards the back-end of things ev
 
 Learning, coding, reading docs and coding again!
 
-Learning : JS / HTML / CSS / PHP
+Learning : Javascript / HTML5 / CSS3 / PHP / NodeJS / ReactJS / Laravel
 
 Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : [Givre Fleet Manager](https://www.guillaumeblondel.dev)
 
