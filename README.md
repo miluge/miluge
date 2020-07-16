@@ -14,7 +14,7 @@ Learning, coding, reading docs and coding again!
 
 Learning : Javascript / HTML5 / CSS3 / PHP / NodeJS / ReactJS / Laravel / MySQL
 
-Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : [Givre Fleet Manager](https://www.guillaumeblondel.dev)
+Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : [Givre Fleet Manager](https://github.com/miluge/givre-fleet-manager)
 
 ## 👯 Can we collaborate / hire you /  have a word ? 
 
