@@ -12,13 +12,7 @@ I'm not specialized yet but I'm slowly leaning towards the back-end of things ev
 
 Learning, coding, reading docs and coding again!
 
-Learning : Javascript / HTML5 / CSS3 / PHP / NodeJS / ReactJS / Laravel / MySQL
-
-Currently using ReactJS, PHP, PostGreSQL for a pet project of mine in Laravel : [Givre Fleet Manager](https://github.com/miluge/givre-fleet-manager)
-
-## 👯 Can we collaborate / hire you /  have a word ? 
-
-Sure thing! Just check below :point_down:
+Learning : Javascript / HTML5 / CSS3 / PHP / NodeJS / VueJS / Laravel / MySQL / PostGreSQL
 
 ## 📫 How to contact me ?
 
@@ -29,6 +23,5 @@ Surprise me!
 ## ⚡ Fun facts
 
 * I liked to fool Google rankings for fun and profit ( in a company ) and I need to renew my certificate for GAiQ :scroll:
-* I worked for a jeweler and still burn, sand, melt, shape my fingers once every week-end :gem:
 * I lived 7 years in Oradea, Romania and planning to go back :heart:
 * I collect sneakers :athletic_shoe:
