@@ -18,8 +18,6 @@ Mostly on [LinkedIn](https://www.linkedin.com/in/guillaumeblondel/), my [email](
 
 Surprise me!
 
-## ⚡ Fun facts
+## ⚡ Fun fact
 
-* I liked to fool Google rankings for fun and profit ( in a company ) and I need to renew my certificate for GAiQ :scroll:
-* I lived 7 years in Oradea, Romania and planning to go back :heart:
-* I collect sneakers :athletic_shoe:
+* I have too many sneakers :athletic_shoe:
