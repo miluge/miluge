@@ -1,5 +1,7 @@
 # Hello 👋 !
 
+Web Developer @ [3D at Home](https://www.3dathome.fr/)
+
 ## 📫 How to contact me ?
 
 Mostly on [LinkedIn](https://www.linkedin.com/in/guillaumeblondel/), my [email](mailto:gllmblndl@gmail.com)
