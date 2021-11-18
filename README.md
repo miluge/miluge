@@ -1,6 +1,6 @@
 # Hello 👋 !
 
-Web Developer @ [3D at Home](https://www.3dathome.fr/)
+Front-End Developper @ [3D at Home](https://www.3dathome.fr/)
 
 ## 📫 How to contact me ?
 
