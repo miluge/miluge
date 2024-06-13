@@ -1,6 +1,6 @@
 # Hello 👋 !
 
-Front-End Developper @ [3D at Home](https://www.3dathome.fr/)
+Front-End Developper 
 
 ## 📫 How to contact me ?
 
